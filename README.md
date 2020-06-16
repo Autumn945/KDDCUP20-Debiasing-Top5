@@ -1,14 +1,14 @@
 ## 赛题链接
 https://tianchi.aliyun.com/competition/entrance/231785/introduction      
 
-# 运行环境
+## 运行环境
 - python 3.6
 - tensorflow 1.12
 
-# 运行入口
+## 运行入口
 - ./run.sh
 
-# 数据文件格式
+### 数据文件格式
 ```
 |-- data
   |-- underexpose_train
