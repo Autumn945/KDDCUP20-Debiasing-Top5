@@ -1,3 +1,6 @@
+## 赛题链接
+https://tianchi.aliyun.com/competition/entrance/231785/introduction      
+
 # 运行环境
 - python 3.6
 - tensorflow 1.12
