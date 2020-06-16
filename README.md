@@ -8,7 +8,7 @@ https://tianchi.aliyun.com/competition/entrance/231785/introduction
 ## 运行入口
 - ./run.sh
 
-### 数据文件格式
+### 数据文件
 ```
 |-- data
   |-- underexpose_train
