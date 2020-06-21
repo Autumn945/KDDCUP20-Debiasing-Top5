@@ -60,4 +60,4 @@ caacb2c58d01757f018d6b9fee0c8095 underexpose_test_click-9
 
 ## 模型
 - 主要模型框架：
-![image](https://github.com/KDDCUP20-Debiasing-Top5/image.png)
+![image](https://github.com/Autumn945/KDDCUP20-Debiasing-Top5/blob/master/image.png)
